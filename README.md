@@ -1,7 +1,7 @@
-<h1 align="center"> 📜 Efficientus 📜 <h1>
+<h1 align="center"> ♖ Knight's Travails ♘ </h1>
 
-<h3 align="center">“<i>Invenire viam efficientissimam</i> -- Find the most efficient way”</h3>
+A TOP project to practice search algorithms and graph-like data structures.
 
-___
+![](./src/assets/images/knight-traversing-chessboard.png)
 
-A TOP to-do list project.  I hope you find it an innovative and intuitive app to help you live/love your life.
+It's things like this that make computers as strong as bulldozers at chess. 🚜

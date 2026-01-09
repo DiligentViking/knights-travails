@@ -1,5 +1,5 @@
 {
-  "name": "efficientus",
+  "name": "knights-travails",
   "version": "1.0.0",
   "description": "<h1 align=\"center\"> 📜 Efficientus 📜 <h1>",
   "main": "index.js",
@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DiligentViking/efficientus.git"
+    "url": "git+https://github.com/DiligentViking/knights-travails.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/DiligentViking/efficientus/issues"
+    "url": "https://github.com/DiligentViking/knights-travails/issues"
   },
-  "homepage": "https://github.com/DiligentViking/efficientus#readme",
+  "homepage": "https://github.com/DiligentViking/knights-travails#readme",
   "devDependencies": {
     "@eslint/css": "^0.14.1",
     "@eslint/js": "^9.39.2",
